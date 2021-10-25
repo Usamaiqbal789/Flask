@@ -1,6 +1,6 @@
 # Tech in Solution (TIS) e-Learning website
 
-## This website is create with Python Flask web framework it is about e-learning website used for provided free and paid courses.
+## This website is create with Python Flask web framework. It is about e-learning website for provided free and paid courses.
 
 #### Visit our website :point_right: [TIS (Techinsolutions)](http://techinsolutions.pythonanywhere.com)
 
