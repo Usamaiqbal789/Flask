@@ -6,4 +6,3 @@
 
 #### If you're new so please login first :point_right: [TIS login](http://techinsolutions.pythonanywhere.com/login)
 
-point_right 	:point_right:point_right 	:point_right:point_right 	:point_right:
